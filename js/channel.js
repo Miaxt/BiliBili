@@ -1,0 +1,1 @@
+$(function(){$(".dl-close").on("touchstart",function(){$("#b_app_link").slideUp()});var c,n,a={c11:169,c4:971,c129:36,c160:474,c119:17,c1:127,c3:283,c13:35,c36:254,c5:403,c23:83,c155:89,c165:13};if(a)for(c in a)if(a.hasOwnProperty(c)&&(n=a[c],!(0>=n))){var i=$(".channel-"+c),t=$('<i class="channel_num"/>');n=99<n?"99+":n,t.text(n),i.append(t)}});

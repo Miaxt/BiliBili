@@ -1,0 +1,1 @@
+$(function(){$.ajax({type:"get",async:!0,success:function(c){console.log(c)}})});
